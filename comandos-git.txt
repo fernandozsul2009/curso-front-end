@@ -1,0 +1,13 @@
+git add = serve para adicionar arquivos para subir no git, exemplo git add
+  arquivo.js
+
+git status = verificar se ha alguma alteracao par subir ao git
+
+git commit -m = serve para inserir uma descricao no commit, exemplo git commit -m
+  "Eu sou uma descricao"
+
+git push origin master = serve para subir o commit feito para a branch master,
+  caso for outra branch alterar de master para nome da branch
+
+git reset --hard origin/master = reset localmente com ultimo commit da master,
+      removendo todas alteracoes locais substituindo com o que esta na master

@@ -1,0 +1,5 @@
+mkdir = criar diretorio, exemplo mkdir meu-diretorio
+ls -la = listar conteudo do diretorio, exemplo ls -la
+rm -rf = remover algum conteudo, atencao cuidado ao digitar somente rm -rf /, pois ela danificara o windows permanentemente;
+	exemplo do comando correto rm -rf caminho-da-pasta-para-remover
+pwd = listar meu caminho em questao exemplo pwd /c/Users/sthefanie/Documents/curso-front-end/form-web/src caso esteja em src do curso-front-end 

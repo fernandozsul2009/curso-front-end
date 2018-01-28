@@ -1,0 +1,62 @@
+html
+  * Semântica
+  * Progressive Enhancemnt
+  * Tabelas
+  * Listas ordenadas
+  * Listas não ordenadas
+  * Formulários
+
+CSS 3
+  * Postions
+  * Seletores
+  * Bordas
+  * Transform
+  * imagens
+  * animações
+  * media queries
+
+Bootstrap
+ * Estilos de Formulários
+ * Web responsiva
+ * Mensagens de erros
+ * Loadings
+ * Mensanges de sucesso
+ * Headers e Footers
+
+http
+  * Protocolos http
+  * HTTP status
+  * Metodos http
+  * payload e response
+
+JS
+  * ES6
+  * Manipulação do DOM
+  * PROTOTYPES
+  * class
+  * Functions
+  * Arrow Functions
+  * Map Reduce Foreach
+  * Objetos
+  * Promisses
+
+GIT
+  * MERGE
+  * REBEASE
+  * BRANCHS
+  * COMMITS
+  * FETCH
+
+TERMINAL
+ * Entrar e sair de um diretorio
+ * Criar diretorios
+ * listar conteudo
+ * criar arquivos
+
+
+Framework
+   * React
+   * states
+   * ciclo de vida
+   * componentização
+   * validação de formularios
